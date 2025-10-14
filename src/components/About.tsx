@@ -12,7 +12,7 @@ export function About() {
   const skills = [
     {
       icon: Code2,
-      title: "Full Stack Development",
+      title: "Full Stack Development/prompt Development",
       description: "Expert in building scalable web applications with modern technologies",
       technologies: ["React", "Node.js", "TypeScript", "Python"],
     },
