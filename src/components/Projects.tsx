@@ -28,7 +28,7 @@ const projects = [
     image: "pavan.png",
     technologies: ["type script", "Express", "React","sql"],
     github: "https://github.com/pateelpavan",
-    demo: "#",
+    demo: "https://pateelpavan.netlify.app/",
   },
 ];
 
