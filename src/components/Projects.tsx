@@ -9,7 +9,7 @@ const projects = [
   {
     title: "UPDATE ON EDUCATION",
     description: "it is my channel website ware i can post the education updates",
-    image: "uoe.png",
+    image: "https://media.licdn.com/dms/image/v2/D4D2DAQF3f9-7yBNh-Q/profile-treasury-image-shrink_800_800/B4DZmozSjtGwAY-/0/1759473644398?e=1761066000&v=beta&t=7N7b-fmc1Wfk5ld6NTKq3U-DjK2aMs9ttjbNxclTYKI",
     technologies: ["React", "Node.js", "MongoDB", "Stripe"],
     github: "https://github.com/pateelpavan",
     demo: "https://stately-crostata-6365ae.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAacuP9pA1-Eha5vXu2-uyqFg-p-bRMPNpTvVx_CZ59Z7nCiVd5hNWf2LXBAZPA_aem__7mQ4x4jsrCh3CtWFrXpDQ",
@@ -17,7 +17,7 @@ const projects = [
   {
     title: "NSS CMRIT Volunteer Portfolio Website",
     description: "Student Volunteer Portfolio Website.",
-    image: "nsscmrit.png",
+    image: "https://media.licdn.com/dms/image/v2/D4D2DAQFurcPBjxnFiw/profile-treasury-image-shrink_800_800/B4DZnjd4nkG8AY-/0/1760457892414?e=1761066000&v=beta&t=jAyyun-azxH6eiSSHmPmTweRr8mpWWF6Kpa5o8dg190",
     technologies: ["Next.js", "java script", "type script", "PostgreSQL"],
     github: "https://github.com/pateelpavan/MYNSS",
     demo: "https://nsscmrits.netlify.app/",
