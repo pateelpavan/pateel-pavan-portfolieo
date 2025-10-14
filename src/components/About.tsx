@@ -48,7 +48,7 @@ export function About() {
                 className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-neutral-700"
               >
                 <ImageWithFallback
-                  src="me.jpg"
+                  src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724252015823?e=1763596800&v=beta&t=NA-K5buPd-lOh50ftSEwcL1rIYQESWzEu-n3KmSBPUY"
                   alt="Professional Portrait"
                   className="w-full h-full object-cover"
                 />
