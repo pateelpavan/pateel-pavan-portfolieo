@@ -44,7 +44,7 @@ export function CoinFlipTransition({ onComplete }: CoinFlipTransitionProps) {
             }}
           >
             <ImageWithFallback
-              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724252015823?e=1763596800&v=beta&t=NA-K5buPd-lOh50ftSEwcL1rIYQESWzEu-n3KmSBPUY"
+              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724252015811?e=1765411200&v=beta&t=wFxP8JdiCvaLo2WEMKxIA0Xmf8cUbnw48zwZExmaGoM"
               alt="Portfolio"
               className="w-full h-full object-cover"
             />
@@ -59,7 +59,7 @@ export function CoinFlipTransition({ onComplete }: CoinFlipTransitionProps) {
             }}
           >
             <div className="text-center">
-              <div className="text-6xl mb-2">✨</div>
+              <div className="text-6xl mb-2">🧑🏻‍💻</div>
               <div className="text-neutral-200 text-xl">Portfolio</div>
             </div>
           </div>
