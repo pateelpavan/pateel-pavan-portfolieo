@@ -73,7 +73,7 @@ export function LandingPage({ onEnter }: LandingPageProps) {
           {/* Photo container */}
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-neutral-600 group-hover:border-neutral-400 transition-all duration-300">
             <ImageWithFallback
-              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724252015823?e=1763596800&v=beta&t=NA-K5buPd-lOh50ftSEwcL1rIYQESWzEu-n3KmSBPUY"
+              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724252015811?e=1765411200&v=beta&t=wFxP8JdiCvaLo2WEMKxIA0Xmf8cUbnw48zwZExmaGoM"
               alt="Portfolio"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
             />
