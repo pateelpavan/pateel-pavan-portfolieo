@@ -33,8 +33,7 @@ export function Hero() {
                 className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-neutral-700"
               >
                 <ImageWithFallback
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724252015811?e=1765411200&v=beta&t=wFxP8JdiCvaLo2WEMKxIA0Xmf8cUbnw48zwZExmaGoM"
-                  alt="Professional Portrait"
+                  src="https://github.com/pateelpavan/pateel-pavan-portfolieo/blob/main/me.jpg?raw=true"
                   className="w-full h-full object-cover"
                 />
               </motion.div>
