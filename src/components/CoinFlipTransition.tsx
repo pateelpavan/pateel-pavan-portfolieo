@@ -44,7 +44,7 @@ export function CoinFlipTransition({ onComplete }: CoinFlipTransitionProps) {
             }}
           >
             <ImageWithFallback
-              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724252015811?e=1772668800&v=beta&t=-fcK9Hq1I33AYca42u2lvMtvU7_syyrt3_M0gn3tAY0"
+              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724252015823?e=1773273600&v=beta&t=_U1pIVnv0Jqz-0Hsn7nTiPqZ30OeLo_B_EmLjLnVj98"
               alt="Portfolio"
               className="w-full h-full object-cover"
             />
