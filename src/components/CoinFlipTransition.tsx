@@ -44,7 +44,7 @@ export function CoinFlipTransition({ onComplete }: CoinFlipTransitionProps) {
             }}
           >
             <ImageWithFallback
-              src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724252015823?e=1773273600&v=beta&t=_U1pIVnv0Jqz-0Hsn7nTiPqZ30OeLo_B_EmLjLnVj98"
+              src="https://avatars.githubusercontent.com/u/180744442?v=4"
               alt="Portfolio"
               className="w-full h-full object-cover"
             />
