@@ -12,9 +12,9 @@ export function About() {
   const skills = [
     {
       icon: Code2,
-      title: "Full Stack Development/prompt Development",
+      title: "front end developer/prompt Development",
       description: "Expert in building scalable web applications with modern technologies",
-      technologies: ["React", "Node.js", "TypeScript", "Python"],
+      technologies: ["React", "Node.js", "TypeScript",],
     },
     {
       icon: Palette,
@@ -48,7 +48,7 @@ export function About() {
                 className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-neutral-700"
               >
                 <ImageWithFallback
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724252015811?e=1772668800&v=beta&t=-fcK9Hq1I33AYca42u2lvMtvU7_syyrt3_M0gn3tAY0"
+                  src="https://media.licdn.com/dms/image/v2/D4D03AQH4k-dvdIawbQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724252015823?e=1773273600&v=beta&t=_U1pIVnv0Jqz-0Hsn7nTiPqZ30OeLo_B_EmLjLnVj98"
                   alt="Professional Portrait"
                   className="w-full h-full object-cover"
                 />
